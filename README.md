@@ -8,7 +8,19 @@ the purpose to understand better how MongoDB works. It is a simple API where can
 ## Installation
 
 ```
+# clone the project
+$ git clone git@github.com:thalesmengue/node-api.git
 
+# clone the .env.example file
+$ cp .env.example .env
+
+# fill the .env file with your database credential
+
+# install the dependencies
+$ npm install
+
+# run the project
+$ npm start
 ```
 
 ## Technologies
